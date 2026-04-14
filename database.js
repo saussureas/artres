@@ -1,9 +1,9 @@
 // Logs array with page links
 const logs = [
   { code: "LOG001", title: "PLACEHOLDER TITLE FOR 001", page: "log001.html" },
-  { code: "LOG002", title: "Experiment Alpha", page: "log002.html" },
-  { code: "LOG003", title: "System Malfunction", page: "log003.html" },
-  { code: "LOG004", title: "Unknown Transmission", page: "log004.html" }
+  { code: "LOG002", title: "002", page: "log002.html" },
+  { code: "LOG003", title: "003", page: "log003.html" },
+  { code: "LOG004", title: "004", page: "log004.html" }
 ];
 
 const searchBtn = document.getElementById("searchBtn");
